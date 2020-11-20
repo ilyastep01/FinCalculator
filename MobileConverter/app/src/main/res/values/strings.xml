@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile Converter</string>
+    <string-array name="currency_name">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
